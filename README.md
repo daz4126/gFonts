@@ -2,7 +2,7 @@ Gfonts.css let's you use all the fonts from the [Google Font Directory](http://c
 
 Just save gfonts.css in your 'stylesheets' folder (or wherever you prefer) and then add the following code to your HTML:
 
-        <link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/gfonts.css" /> 
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/gfonts.css" /> 
 
 Then you can just refer to the fonts you want in any of your css, for example:
 
